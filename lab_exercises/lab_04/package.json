@@ -2,9 +2,10 @@
   "name": "lab_04",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\""
-  },
+"scripts": {
+  "test": "echo \"Warning: No tests created yet.\""
+}
+,
   "keywords": [],
   "author": "",
   "license": "ISC",
