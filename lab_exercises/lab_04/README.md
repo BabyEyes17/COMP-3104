@@ -2,4 +2,4 @@
 
 # Github ACtion Status Badge
 
-[![CI](https://github.com/BabyEyes17/COMP-3104/actions/workflows/ci.yml/badge.svg)](https://github.com/BabyEyes17/COMP-3104/actions/workflows/ci.yml)
+[![Build Status](https://travis-ci.com/BabyEyes17/COMP-3104.svg?branch=main)](https://travis-ci.com/BabyEyes17/COMP-3104)
