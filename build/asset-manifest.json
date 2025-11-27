@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BabyEyes17/COMP-3104/static/css/main.27ca76a1.css",
+    "main.js": "/BabyEyes17/COMP-3104/static/js/main.9fa9bc53.js",
+    "static/js/453.c971c0a4.chunk.js": "/BabyEyes17/COMP-3104/static/js/453.c971c0a4.chunk.js",
+    "index.html": "/BabyEyes17/COMP-3104/index.html",
+    "main.27ca76a1.css.map": "/BabyEyes17/COMP-3104/static/css/main.27ca76a1.css.map",
+    "main.9fa9bc53.js.map": "/BabyEyes17/COMP-3104/static/js/main.9fa9bc53.js.map",
+    "453.c971c0a4.chunk.js.map": "/BabyEyes17/COMP-3104/static/js/453.c971c0a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.9fa9bc53.js"
+  ]
+}
